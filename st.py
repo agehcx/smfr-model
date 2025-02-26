@@ -31,8 +31,8 @@ additional_metrics = {
 extended_metrics = {
     "Start Value": "Start Value",
     "End Value": "End Value",
-    "Max Gross Exposure [%]": "Max Gross Exposure [%]",
-    "Total Fees Paid": "Total Fees Paid",
+    # "Max Gross Exposure [%]": "Max Gross Exposure [%]",
+    # "Total Fees Paid": "Total Fees Paid",
     "Profit Factor": "Profit Factor",
     "Expectancy": "Expectancy",
     "Calmar Ratio": "Calmar Ratio",
@@ -41,8 +41,8 @@ extended_metrics = {
     "Max Drawdown Duration": "Max Drawdown Duration",
     "Total Trades": "Total Trades",
     "Total Closed Trades": "Total Closed Trades",
-    "Total Open Trades": "Total Open Trades",
-    "Open Trade PnL": "Open Trade PnL"
+    # "Total Open Trades": "Total Open Trades",
+    # "Open Trade PnL": "Open Trade PnL"
 }
 
 if page == "Upload & Filter Data":
