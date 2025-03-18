@@ -1,0 +1,8 @@
+period,strategy,num_assets,total_return,sharpe_ratio,max_drawdown,win_rate,crypto,Start,End,Period,Start Value,End Value,Total Return [%],Benchmark Return [%],Max Gross Exposure [%],Total Fees Paid,Max Drawdown [%],Max Drawdown Duration,Total Trades,Total Closed Trades,Total Open Trades,Open Trade PnL,Win Rate [%],Best Trade [%],Worst Trade [%],Avg Winning Trade [%],Avg Losing Trade [%],Avg Winning Trade Duration,Avg Losing Trade Duration,Profit Factor,Expectancy,Sharpe Ratio,Calmar Ratio,Omega Ratio,Sortino Ratio
+2019,Volatility-Adjusted Portfolio,10.0,0.40163372131812003,1.2895217647310775,-0.10184176949206392,0.33608815426997246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020,Volatility-Adjusted Portfolio,10.0,0.48926266760641357,1.5075968688926793,-0.12312781840449072,0.4258241758241758,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021,Volatility-Adjusted Portfolio,10.0,0.4352346508250202,1.0381787530658935,-0.3156598688142004,0.4132231404958678,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022,Volatility-Adjusted Portfolio,10.0,-0.18913875661098412,-0.5862904989344766,-0.30876322007876345,0.3305785123966942,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023,Volatility-Adjusted Portfolio,10.0,0.14852849276010427,0.8730800148235193,-0.12071887988184415,0.35537190082644626,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024,Volatility-Adjusted Portfolio,10.0,0.19733027348502885,0.9529297315046408,-0.1601950687444037,0.4175824175824176,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025_YTD,Volatility-Adjusted Portfolio,10.0,-0.06651376950646826,-0.7509456162074523,-0.10706873975104247,0.4533333333333333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
